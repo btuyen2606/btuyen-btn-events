@@ -1,0 +1,30 @@
+{
+  "name": "btuyen-btn-events",
+  "version": "1.0.0",
+  "description": "Analsor event module used to debounce a digital input signal and produce analsor action events.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "@rewikipx/simple-rewiki-tstacktable": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "btn",
+    "button event",
+    "click",
+    "press"
+  ],
+  "author": "Analsorhost Mickey",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btuyen2606/btuyen-btn-events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/btuyen2606/btuyen-btn-events/issues"
+  },
+  "homepage": "https://github.com/btuyen2606/btuyen-btn-events#readme"
+}
