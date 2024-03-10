@@ -21,8 +21,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/btuyen2606/btuyen-btn-events.git"
+    "url": "https://github.com/btuyen2606/btuyen-btn-events"
   },
+  "website": "https://github.com/btuyen2606/btuyen-btn-events.git",
   "bugs": {
     "url": "https://github.com/btuyen2606/btuyen-btn-events/issues"
   },
